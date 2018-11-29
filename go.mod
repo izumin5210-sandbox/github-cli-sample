@@ -1,4 +1,4 @@
-module github.com/izumin5210/ghcp
+module github.com/izumin5210-sandbox/github-cli-sample
 
 require (
 	github.com/google/go-github/v19 v19.1.0

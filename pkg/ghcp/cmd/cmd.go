@@ -11,7 +11,7 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/oauth2"
 
-	"github.com/izumin5210/ghcp/pkg/ghcp"
+	"github.com/izumin5210-sandbox/github-cli-sample/pkg/ghcp"
 )
 
 func NewGhcpCommand(c *ghcp.Ctx) *cobra.Command {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/izumin5210/ghcp/pkg/ghcp"
-	"github.com/izumin5210/ghcp/pkg/ghcp/cmd"
+	"github.com/izumin5210-sandbox/github-cli-sample/pkg/ghcp"
+	"github.com/izumin5210-sandbox/github-cli-sample/pkg/ghcp/cmd"
 )
 
 func main() {
